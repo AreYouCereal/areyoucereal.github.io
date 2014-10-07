@@ -1,6 +1,6 @@
 ---
 layout: post
-title: second makersquare blog post
+title: "Git Outta Here"
 date: 2014-09-21
 ---
 
