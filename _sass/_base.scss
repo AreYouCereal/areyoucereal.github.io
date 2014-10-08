@@ -18,7 +18,7 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
+    color: gray;
     background-color: $background-color;
 }
 
@@ -80,6 +80,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    color: #ff3300;
 }
 
 
@@ -88,15 +89,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
     text-decoration: none;
+    olor: #FF3300;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: #FF9900;
     }
 
     &:hover {
-        color: $text-color;
+        color: #FF3300;
         text-decoration: underline;
     }
 }

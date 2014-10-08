@@ -3,6 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
+    background-color: #FF3300;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -12,6 +13,7 @@
 
 .site-title {
     font-size: 26px;
+    color: #FFFFFF;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -19,20 +21,21 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #FFFFFF;
     }
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
+    color: #FFFFFF;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        color: #FF3300;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -93,11 +96,13 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
+    background-color: #ff3300;
     padding: $spacing-unit 0;
 }
 
 .footer-heading {
     font-size: 18px;
+    color: #FFFFFF;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -166,7 +171,9 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 29px;
+    color: #FF3300;
+    font-weight: bold;
 }
 
 .post-list {
@@ -186,6 +193,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: #FF3300;
 }
 
 
@@ -199,6 +207,8 @@
 
 .post-title {
     font-size: 42px;
+    color: #ff3300;
+    font-weight: bold;
     letter-spacing: -1px;
     line-height: 1;
 

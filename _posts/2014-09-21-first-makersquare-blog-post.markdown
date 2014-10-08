@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first makersquare blog post
+title: "First Makersquare Blog Post"
 date: 2014-09-21
 ---
 
