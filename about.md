@@ -50,11 +50,14 @@ permalink: /about/
     </div>
   </div>
   <!-- End site navbar -->
+    <!-- SlidesJS Required: Link to jQuery -->
+  <script src="resources/jquery-1.9.1.min.js"></script>
+</body>
+  </html>
 
-  <!-- Start main content -->
+<!--   <!-- Start main content --> -->
 
-
-  <div id="footer" class="section">
+<!--   <div id="footer" class="section">
     <div class="container">
       <div class="row">
         <div class="span12">
@@ -64,11 +67,8 @@ permalink: /about/
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
-  <!-- SlidesJS Required: Link to jQuery -->
-  <script src="resources/jquery-1.9.1.min.js"></script>
-</body>
-  </html>
+
 
 
