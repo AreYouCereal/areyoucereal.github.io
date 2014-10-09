@@ -55,19 +55,9 @@ permalink: /about/
 </body>
   </html>
 
-<!--   <!-- Start main content --> -->
 
-<!--   <div id="footer" class="section">
-    <div class="container">
-      <div class="row">
-        <div class="span12">
-          <p>This site has been built using <a href="http://fortawesome.github.com/Font-Awesome/" target="_blank">Font Awesome</a>, <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>, <a href="http://softwaremaniacs.org/soft/highlight/en/" target="_blank">Highlight.js</a>, <a href="http://placehold.it/" target="_blank">Placehold.it</a> and <a href="http://subtlepatterns.com/" target="_blank">Subtle Patterns</a>.</p>
-          <p>Want to advertise on this site? Check out ads via <a href="http://bsa.ly/jec">BuySellAds</a>.</p>
-          <p>SlidesJS is licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache license</a>. © 2013 <a href="http://nathansearles.com/" target="_blank">Nathan Searles</a>. All rights reserved.</p>
-        </div>
-      </div>
-    </div>
-  </div> -->
+
+
 
 
 
