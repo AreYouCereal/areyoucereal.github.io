@@ -4,7 +4,7 @@ title: "Git Outta Here"
 date: 2014-09-21
 ---
 
-Yea. Git...as in, GIT OUTTA HERE! I struggled with it today--but stackoverflow and facebook peeps came to my rescue. Thank the Lord for all of them.I really love it when people are helpful. What i do not like is when i ask a question and someone acts put out---as if they have this entire development knowledge under their belt. Know what I think of people like that? 
+Still on a tangent! GIT OUTTA HERE! I struggled with it today--but stackoverflow and facebook peeps came to my rescue. Thank the Lord for all of them.I really love it when people are helpful. What i do not like is when i ask a question and someone acts put out---as if they have this entire development knowledge under their belt. Know what I think of people like that? 
 
 I think they suck. 
 Big time. 
