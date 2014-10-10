@@ -29,3 +29,9 @@ I'm doing just that. In this moment. Right here...proving i can do this.
     </li>
   {% endfor %}
 </ul>
+
+<h4>Find Me Here:</h4>
+
+<a href="http://facebook.com/WendiDonaldsonSpeciale" class="buttonTwo">Facebook</a>
+<br><a href="http://twitter.com/WendiSpeciale" class="buttonTwo">Twitter</a><br>
+<a href="mailto:wendi@createsalesandmarketing.com?Subject=OHMYBLOG!" target="_top" class="buttonTwo">Email Me</a><br>

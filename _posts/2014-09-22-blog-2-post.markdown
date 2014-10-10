@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git outta here"
+title: "Git Outta Here"
 date: 2014-09-21
 ---
 
@@ -12,10 +12,15 @@ Big time.
 But the good news is I have a great group of people around me...Mae, Flip and Elyse are truly the bomb. It was a hard week---Tate was out sick causing me to stream from home twice this week. Not a good thing as far as catching up...but i'm doing it...and doing a pretty damn good job, if i do say so myself!
 Um...i might NOT be in over my head.
 
+<h4>Want More? Of course you do:</h4>
 <ul>
-  {% for post in site.posts %}
+	{% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+<a href="http://facebook.com/WendiDonaldsonSpeciale" class="buttonTwo">Facebook</a>
+<br><a href="http://twitter.com/WendiSpeciale" class="buttonTwo">Twitter</a><br>
+<a href="mailto:wendi@createsalesandmarketing.com?Subject=OHMYBLOG!" target="_top" class="buttonTwo">Email Me</a><br>
