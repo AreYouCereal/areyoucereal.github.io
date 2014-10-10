@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "first Makersquare blog post"
+title: "git hates me."
 date: 2014-09-21
 ---
 
