@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "You Found Me"
+title:  "you found me"
 date:   2014-10-06 19:47:45
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git Outta Here"
+title: "git outta here"
 date: 2014-09-21
 ---
 
