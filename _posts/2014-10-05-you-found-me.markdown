@@ -13,6 +13,9 @@ So. Here I sit...err...actually, I admit it, I'm laying down...working on this b
     </li>
   {% endfor %}
 </ul>
+<a href="http://facebook.com/WendiDonaldsonSpeciale" class="button">Facebook</a>
+<a href="http://twitter.com/WendiSpeciale" class="button">Twitter</a>
+<a href="mailto:wendi@createsalesandmarketing.com?Subject=OHMYBLOG!" target="_top" class="button">Email Me</a>
 
 <!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
