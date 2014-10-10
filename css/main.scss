@@ -33,6 +33,14 @@ a {
     color: #FF3300;
     text-decoration: underline; }
 
+.button {
+    display: block;
+    height: 100px;
+    width: 300px;
+    background: #4d4d4d;
+    text-align: center;
+    font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
 
 
 // Using media queries with like this:

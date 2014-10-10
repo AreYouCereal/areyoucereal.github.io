@@ -8,7 +8,11 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
 
 /**
  * Basic styling
