@@ -21,3 +21,11 @@ Crazy enough to prove to myself that A) I can do this; B) Prove to my son that a
 
 And you know what?
 I'm doing just that. In this moment. Right here...proving i can do this. 
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

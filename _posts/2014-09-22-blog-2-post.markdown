@@ -11,3 +11,11 @@ Big time.
 
 But the good news is I have a great group of people around me...Mae, Flip and Elyse are truly the bomb. It was a hard week---Tate was out sick causing me to stream from home twice this week. Not a good thing as far as catching up...but i'm doing it...and doing a pretty damn good job, if i do say so myself!
 Um...i might NOT be in over my head.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
