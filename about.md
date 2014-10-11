@@ -15,7 +15,7 @@ What I know now is that I am so grateful I was filling my head with the good stu
 I want to say this about my son: he is the <em>smartest</em> person I know. Must I remind you he is 12? Often I find myself asking HIM for answers to things i probably (read: should) know...and everytime, he's spot on with the answers.
 
 So why in the heck am I working full time, attending MakerSquare alongside of that (for an intense 10 week front-end development boot camp? 
-
+<br><img src="/assets/BeBold3.png" align="left" />
 <em>Because I'm Crazy</em>
 Crazy enough to prove to myself that A) I can do this; B) Prove to my son that a single mom is no less than any other breathing person on the planet; and lastly, C) Because i have to prove to myself that I can do this.
 

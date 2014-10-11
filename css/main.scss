@@ -51,6 +51,10 @@ a {
     font: bold 1.2em/50px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
+img {
+    align: left;
+}
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
